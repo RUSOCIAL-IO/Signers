@@ -70,6 +70,7 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - You can use VA's TO RUN But cost 1k$ Extra Per Month + Any dedi prices and you must VET THEM YOU ARE RESPONSIBLE FOR LEAKS and you will be blacklisted permanently if they leak or break TOS
 - You must use our Dedicated Servers to run the bot's we provide 1 for free more can purchased for extra $$
 - If you have a DEV EXTERNAL SIGNER USAGE HE CANNOT RUN ONLY TEST
+- Dealing / Giving a Blacklisted Buyer anything used with our services is STRICTLY forbidden you will be blacklisted permanently (Example account with adds / Helping them using our tools)
 
 # [Blacklisted Buyers]
 - Slavi (Reason: Stealing/Flexing Our Bots As his own work https://i.imgur.com/9qt0ssR.png)
