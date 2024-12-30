@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - Nixh5 (Iván) (Reason: Attempted to impersonate OG's on forums promptly got banned)
 - Mitz (Reason: Slavi's Cousin was spamming me for a 250$ Refund when i was busy https://imgur.com/a/qKRn8lW larp)
 - DrMayer (Reason: https://t.me/cupidbotgg Openly Working with cupid stealing users infomation for personal gain)
-- GoogleTune (Reason: Was accused of leaking something instead of providing proof he stalled for 3 hours)
+- GoogleTune (Fred) (Reason: Was accused of leaking something instead of providing proof he stalled for 3 hours)
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
