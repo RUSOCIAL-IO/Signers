@@ -54,9 +54,6 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - Javascript Deobfuscation / Auth Removal
 - NET Deobfuscation / Auth Removal
 
-# Known Scammers:
-- Snapdash (https://t.me/snapdashxyz) (t.me/SnapSensei) They are not authorized to resell DWC they stole are videos
-
 # [TOS]
 - Do not time waste
 - Do not insult us
